@@ -4,4 +4,4 @@
 3) Fill in prefence file with your own parameters. 
 4) In main function choose you poll of mikrotik ip addresses
 ### The main Idea
-It's one way how to create backups of mikrotik configs, upload to ftp, and make diff between current and previous configurations
+It's one way how to create backups of mikrotik configs, upload to ftp and make diff between current and previous configurations
